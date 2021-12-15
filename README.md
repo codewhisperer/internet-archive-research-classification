@@ -1,6 +1,5 @@
-# capstone-internet-archive
-Capstone project 2021:  
-Internet Archive - HTML Research Classification    
+# Internet Archive - HTML Research Classification
+Capstone project 2021    
 
 Code written for the research paper: 
 Detecting Research from an Uncurated HTML Archive Using Semi-Supervised Machine Learning  
